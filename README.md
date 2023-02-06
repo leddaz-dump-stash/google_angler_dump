@@ -1,0 +1,14 @@
+# angler-user 6.0.1 MTC20L 3230295 release-keys
+- manufacturer: huawei
+- platform: msm8994
+- codename: angler
+- flavor: angler-user
+- release: 6.0.1
+- id: MTC20L
+- incremental: 3230295
+- tags: release-keys
+- fingerprint: google/angler/angler:6.0.1/MTC20L/3230295:user/release-keys
+- is_ab: false
+- brand: google
+- branch: angler-user-6.0.1-MTC20L-3230295-release-keys
+- repo: google_angler_dump
